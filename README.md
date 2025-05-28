@@ -5,7 +5,7 @@
 
 ### Challenge
 Crafting sharp, engaging LinkedIn comments is tough without strong synthesis skills. 
-With a mix of prompt engineering, Python, and AI collaboration, I built Agente Meme to automate the process: it generates witty replies and turns them into visual memes for high-impact engagement.
+With a mix of prompt engineering, Python, and AI collaboration, I built _Agente Meme_ to automate the process: it generates witty replies and turns them into visual memes for high-impact engagement.
 This was also a personal challenge in using ChatGPT not just as a tool, but as a creative and technical sparring partner.
 
 ### Approach
