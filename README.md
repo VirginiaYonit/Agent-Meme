@@ -1,3 +1,5 @@
+![Meme preview](meme_lavoro.png)
+
 # Agent-Meme
 ## Because crafting a clever LinkedIn comment shouldn’t take longer than reading the post.
 
